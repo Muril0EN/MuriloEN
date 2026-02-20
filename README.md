@@ -1,10 +1,10 @@
 # Hi there, I'm Murilo Esteves Nogueira 👋 🧬🦾
 
-### MSc in Health | Mathematics Student | Data Scientist | C++ & Arduino Developer
+### MSc in Health | Graduate Student in Mathematical Modeling & Applied Computing
 
-I am a researcher bridging the gap between Human Movement Sciences and **Computational Neuroscience**. With an MSc from the Faculty of Medicine (UFMS), I am currently focusing on technical skill acquisition in **mathematical modeling**, **Data Science**, and **embedded systems**.
+I am a researcher bridging the gap between Human Movement Sciences and **Computational Neuroscience**. With an MSc from the Faculty of Medicine (UFMS), I am currently specializing in **Mathematical Modeling** and **Data Science** to develop neurotechnology.
 
-**🎯 Research Interest & Future Goal:** I am preparing for PhD research to develop neurotechnology and BCI solutions for stroke recovery, with a specific interest in addressing **hemiplegia** and **hemispatial neglect** (heminigligência).
+**🎯 Research Interest & Future Goal:** I am preparing for PhD research to develop BCI and assistive solutions for stroke recovery, specifically targeting **hemiplegia** and **hemispatial neglect** (heminigligência).
 
 ---
 
@@ -12,13 +12,13 @@ I am a researcher bridging the gap between Human Movement Sciences and **Computa
 
 #### 🦾 [Assistive Technology & Engineering](https://github.com/Muril0EN/assistive-tech-prototypes)
 Technical foundation in low-level programming and hardware-software interfacing.
-* **Scope:** Arduino-based prototypes (C++) as a learning path for future neuroprosthetics and actuators.
-* **Core Skills:** OOP, STL, Robotic Arm Control (PWM), and Logic Systems.
+* **Scope:** Arduino-based prototypes (C++) as a learning path for future neuroprosthetics.
+* **Core Skills:** C++, OOP, Logic Systems, and Hardware Interfacing.
 
 #### 📊 [Data Science & Statistical Lab](https://github.com/Muril0EN/data-science-statistical-lab)
-Developing mathematical rigor for biological and experimental data analysis.
+Applying mathematical rigor to biological and experimental data analysis.
 * **Scope:** Implementation of statistical models to prepare for future clinical data trials.
-* **Core Skills:** Python, Experimental Design (DOE), Linear Regression, and Hypothesis Testing.
+* **Core Skills:** Python, Experimental Design (DOE), and Inferential Statistics.
 
 ---
 
@@ -27,14 +27,20 @@ Developing mathematical rigor for biological and experimental data analysis.
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
   <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="C++" />
   <img src="https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white" alt="Arduino" />
-  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas" />
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux" />
+  <img src="https://img.shields.io/badge/LaTeX-47A141?style=for-the-badge&logo=latex&logoColor=white" alt="LaTeX" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
 </p>
+
+* **Embedded Systems:** Prototyping with **Arduino** for assistive actuators and sensor interfacing.
+* **Scientific Documentation:** Proficiency in **LaTeX** for high-quality academic typesetting.
+* **Infrastructure:** Experienced in **Linux CLI**, system management, and version control with **Git**.
 
 ---
 
 ### 🎓 Academic & Research Background
-- 🧬 **MSc in Health (UFMS)**: Experimental research on cardiac tissue adaptation using animal models.
-- 📐 **Mathematics (BSc Student)**: Focusing on Mathematical Modeling and Applied Computing.
+- 🧬 **MSc in Health (UFMS)**: Experimental research on cardiac tissue adaptation.
+- 📐 **Postgraduate Student**: Mathematical Modeling and Applied Computing.
 - 🧠 **Focus:** Building the bridge between neurological theory and functional recovery technology.
 
 ---
